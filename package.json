@@ -1,0 +1,26 @@
+{
+  "name": "swagger-api-assembler",
+  "version": "0.1.0",
+  "description": "A simple tool to assembly several swagger contracts into one swagger api definition file",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jctosta/swagger-api-assembler.git"
+  },
+  "keywords": [
+    "swagger",
+    "api",
+    "json",
+    "yaml",
+    "definition"
+  ],
+  "author": "Carlos Tosta <jc@tosta.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jctosta/swagger-api-assembler/issues"
+  },
+  "homepage": "https://github.com/jctosta/swagger-api-assembler#readme"
+}
